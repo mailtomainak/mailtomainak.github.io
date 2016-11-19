@@ -1,3 +1,9 @@
 input[type=checkbox]:checked + label{
 	color:red;
 }
+
+@media print{
+	a:after{
+		content: "("attr(href)")";		
+	}
+}
