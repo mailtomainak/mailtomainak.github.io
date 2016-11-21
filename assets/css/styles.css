@@ -7,3 +7,10 @@ input[type=checkbox]:checked + label{
 		content: "("attr(href)")";		
 	}
 }
+
+.pricing-header{
+	background: #66B9BF;
+}
+.pricing-header-primary{
+	background: #E37222;
+}
