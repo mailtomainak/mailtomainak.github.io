@@ -8,9 +8,32 @@ input[type=checkbox]:checked + label{
 	}
 }
 
+
+
+/*
+CSS Rules for pricing plans page
+*/
 .pricing-header{
 	background: #66B9BF;
+	padding:5px 10px 10px 10px;
+
 }
+
 .pricing-header-primary{
 	background: #E37222;
+}
+
+.pricing-primary-bg{	
+	background: #EEAA78;
+}
+
+.price-header > h3{
+	margin-top: 0px;
+}
+
+.pricing-content{
+	padding: 40px 25px 10px;
+}
+.plans-section{
+	border: 1px solid #d0d4d9;
 }
