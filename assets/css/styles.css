@@ -10,9 +10,16 @@ input[type=checkbox]:checked + label{
 
 
 
+
 /*
 CSS Rules for pricing plans page
 */
+
+body,h4{
+	font-size: 2em;
+	font-family: 'Titillium Web';
+}
+
 .pricing-header{
 	background: #66B9BF;
 	padding:5px 10px 10px 10px;
